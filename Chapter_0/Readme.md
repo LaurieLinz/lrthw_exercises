@@ -22,4 +22,4 @@ ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]
  
 >Speaking of strings, this may be helpful:
  http://www.cafepress.com/rubystuff.232146123
- Just seeing if you guys actually read this stuff.  
+>Just seeing if you guys actually read this stuff.  
