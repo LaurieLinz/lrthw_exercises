@@ -9,9 +9,9 @@ ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]
  
 >Provide a link in your Readme.md that links to the documentation for the following classes:
 
->Array http://ruby-doc.org/core-2.2.0/Array.html
+>Array http://ruby-doc.org/core-2.2.4/Array.html
 
->Hash http://ruby-doc.org/core-2.2.0/Hash.html
+>Hash http://ruby-doc.org/core-2.2.4/Hash.html
 
 >Chronic (Rubygem) https://rubygems.org/gems/chronic/versions/0.10.2
  
@@ -19,10 +19,10 @@ ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]
 >Find two other relative links and add those to the Readme.md as well.
  
 >This one is on objects:
- http://ruby-doc.org/core-2.3.0/Object.html
+http://ruby-doc.org/core-2.2.4/Object.html
  
 >This one is on strings:
- http://ruby-doc.org/core-2.3.0/String.html
+http://ruby-doc.org/core-2.2.4/String.html
  
 >Speaking of strings, this may be helpful:
  http://www.cafepress.com/rubystuff.232146123
