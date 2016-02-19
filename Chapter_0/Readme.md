@@ -8,9 +8,13 @@ ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]
 ```
  
 >Provide a link in your Readme.md that links to the documentation for the following classes:
+
 >Array http://ruby-doc.org/core-2.2.0/Array.html
+
 >Hash http://ruby-doc.org/core-2.2.0/Hash.html
+
 >Chronic (Rubygem) https://rubygems.org/gems/chronic/versions/0.10.2
+ 
  
 >Find two other relative links and add those to the Readme.md as well.
  
