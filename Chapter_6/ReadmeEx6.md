@@ -17,3 +17,5 @@ Study Drills:
 
 5) What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
 > This can't be done since interpolation is being used.  
+
+>I had to make several alterations to make Rubocop happy.  Mostly line lenght, quotes, and spacing.     
