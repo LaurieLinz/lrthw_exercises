@@ -1,0 +1,1 @@
+Rubocop really did not want to use the triple quotes.  He became very offended.  So I tried using the newline trick from above but then the lines were too long.  I finally just put them on seperate lines.
