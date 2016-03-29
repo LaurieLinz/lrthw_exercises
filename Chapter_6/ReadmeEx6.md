@@ -10,7 +10,7 @@ Study Drills:
 >5. joke_evaluation = "Isn't that joke so funny?! #{hilarious}" 
 
 3) Was he lying?
-> yes - there are 5 places not 4
+> yes - there are 3 places not 4, since the others were other types of data
 
 4) Explain why adding the two strings w and e with + makes a longer string.
 > The plus sign joins them together and prints them out on the same line
