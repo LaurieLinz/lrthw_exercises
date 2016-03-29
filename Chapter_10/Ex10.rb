@@ -5,11 +5,12 @@ persian_cat = "I'm split\non a line."
 backslash_cat = "I'm a \\ a \\ cat."
 
 fat_cat = "I'll do  a list:\n\t* Cat Food\n\t* Fishies\n\t* Catnip\n\t* Grass"
-
-puts tabby_cat
-puts persian_cat
-puts backslash_cat
-puts fat_cat
+puts "
+ tabby_cat
+ persian_cat
+ backslash_cat
+ fat_cat
+"
 
 puts 'This allows a backslash \\'
 puts "This will escape a single quote \'"
