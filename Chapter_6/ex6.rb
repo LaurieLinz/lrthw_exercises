@@ -11,15 +11,15 @@ binary = 'binary'
 do_not = "don't"
 # when y is used it will place this string
 y = "Those who know #{binary} and those who #{do_not}." # string
-# inside a string 1
+# inside a string 1 and 2
 
 # printing out both the strings
 puts x
 puts y
 
 # using string interpolation to add the variables within a string
-puts "I said: #{x}." # string inside a string 2
-puts "I also said: '#{y}'." # string inside a string 3
+puts "I said: #{x}." # string inside a string 3
+puts "I also said: '#{y}'." # string inside a string 4
 
 # setting these variables
 hilarious = false
